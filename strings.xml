@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HeadshotLab</string>
+    <string name="nav_device">Device</string>
+    <string name="nav_gameplay">Gameplay</string>
+    <string name="nav_sensitivity">Sensitivity</string>
+    <string name="nav_presets">Presets</string>
+    <string name="hero_subtitle">FREE FIRE INDIA • OB44+ 0–200 CALIBRATOR</string>
+    <string name="hero_title">Headshot Calibration Lab</string>
+    <string name="btn_rescan_device">Re-Scan Hardware</string>
+    <string name="btn_start_gameplay">Analyze Gameplay</string>
+    <string name="btn_generate_sens">Calculate Headshot Sensitivity</string>
+    <string name="btn_copy_all">Copy All Settings</string>
+    <string name="btn_save_preset">Save Preset</string>
+    <string name="empty_presets_title">No Saved Presets Yet</string>
+    <string name="empty_presets_subtitle">Scan your device and complete the 5-drag calibration test to lock in your custom Free Fire India headshot profile.</string>
+    <string name="copied_toast">Free Fire India sensitivity copied to clipboard</string>
+    <string name="saved_toast">Preset saved to local vault</string>
+</resources>
